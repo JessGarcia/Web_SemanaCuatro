@@ -1,0 +1,29 @@
+header h1 {
+	color: blue;
+	display: inline-block;
+	font-size: 3em;
+}
+
+header figure {
+	display: inline-block;
+	float: right;
+	width: 20%;
+}
+
+	figure img {
+		height: auto;
+		width: 100%;
+	}
+
+nav {
+	clear: both;
+	width: 100%;
+}
+	
+	nav ul {
+		list-style: none;
+	}
+
+		nav ul li {
+			display: inline-block;
+		}
